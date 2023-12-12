@@ -1,0 +1,8 @@
+aplicacao\aplicacao.class
+com\mycompany\provads2\Consulta.class
+com\mycompany\provads2\EAtendimentoNaoRegistradoException.class
+com\mycompany\provads2\EValorInvalidoException.class
+com\mycompany\provads2\ProvaDS2.class
+com\mycompany\provads2\Clinica.class
+com\mycompany\provads2\Paciente.class
+com\mycompany\provads2\Checkup.class
